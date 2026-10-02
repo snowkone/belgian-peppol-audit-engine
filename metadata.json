@@ -1,0 +1,8 @@
+{
+  "name": "Belgian SME Financial Ledger",
+  "description": "Synthetic transaction ledger and financial controller dashboard for a Belgian B2B consulting SME.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
